@@ -10,4 +10,5 @@
 7. [https://arxiv.org/pdf/1906.09217.pdf](https://arxiv.org/pdf/1906.09217.pdf)
 8. [https://arxiv.org/pdf/2012.07064.pdf](https://arxiv.org/pdf/2012.07064.pdf)
 9. [https://arxiv.org/pdf/1907.06902v3.pdf](https://arxiv.org/pdf/1907.06902v3.pdf)
+10. [http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p138-tuan.pdf](http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p138-tuan.pdf)
 - [2021 최신 논문 동향](http://www.wsdm-conference.org/2021/accepted-papers.php)
