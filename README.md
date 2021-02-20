@@ -1,5 +1,7 @@
 # have to read in February
 
+- [Deep Clustering by GMVA with Graph Embedding](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Deep_Clustering_by_Gaussian_Mixture_Variational_Autoencoders_With_Graph_Embedding_ICCV_2019_paper.pdf)
+
 1. [https://arxiv.org/pdf/1808.06414.pdf](https://arxiv.org/pdf/1808.06414.pdf)
 2. [https://arxiv.org/pdf/1812.02353.pdf](https://arxiv.org/pdf/1812.02353.pdf)
 3. [https://arxiv.org/pdf/1902.05570.pdf](https://arxiv.org/pdf/1902.05570.pdf)
