@@ -1,6 +1,9 @@
 # have to read in February
 
 - [Deep Clustering by GMVA with Graph Embedding](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Deep_Clustering_by_Gaussian_Mixture_Variational_Autoencoders_With_Graph_Embedding_ICCV_2019_paper.pdf)
+- [Deep Unsupervised Clustering with Gaussian Mixture Variational AutoEncoder](https://arxiv.org/pdf/1611.02648.pdf)
+- [Variational Autoencoder with Optimizing Gaussian Mixture Model Priors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9020116)
+
 
 1. [https://arxiv.org/pdf/1808.06414.pdf](https://arxiv.org/pdf/1808.06414.pdf)
 2. [https://arxiv.org/pdf/1812.02353.pdf](https://arxiv.org/pdf/1812.02353.pdf)
@@ -21,10 +24,8 @@
 
 # 추천시스템 관련 채용
 
-- [네이버 전환형 인턴](https://recruit.navercorp.com/naver/job/detail/1000287?annoId=20004980&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)
 - [뤼이드](https://www.wanted.co.kr/wd/3936?fbclid=IwAR3BqCvtOC2Ws4YaVD1ZAZsEPYVDl3A7bseNQMk2CHaRCKvRo1KXjklXjNI)
         - [https://www.riiid.co/ko/career/data-scientist
-- [LG AI](https://www.lgresearch.ai/kor/careers/view2/?seq=24&schLangTp=KR)
 - [라인플러스](https://careers.linecorp.com/ko/jobs?co=Korea&ca=Engineering)
     - [https://www.jobkorea.co.kr/company/1435513/keyword]
 - [원티드랩](https://www.wanted.co.kr/wd/46410?referer_id=1720905)
