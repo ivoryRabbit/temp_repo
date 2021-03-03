@@ -1,4 +1,4 @@
-# have to read in February
+# have to read until March
 
 - [Deep Clustering by GMVA with Graph Embedding](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Deep_Clustering_by_Gaussian_Mixture_Variational_Autoencoders_With_Graph_Embedding_ICCV_2019_paper.pdf)
 - [Deep Unsupervised Clustering with Gaussian Mixture Variational AutoEncoder](https://arxiv.org/pdf/1611.02648.pdf)
