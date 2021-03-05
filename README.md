@@ -3,7 +3,7 @@
 - [Deep Clustering by GMVA with Graph Embedding](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Deep_Clustering_by_Gaussian_Mixture_Variational_Autoencoders_With_Graph_Embedding_ICCV_2019_paper.pdf)
 - [Deep Unsupervised Clustering with Gaussian Mixture Variational AutoEncoder](https://arxiv.org/pdf/1611.02648.pdf)
 - [Variational Autoencoder with Optimizing Gaussian Mixture Model Priors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9020116)
-
+- [RobustPeriod: Time-Frequency Mining for Robust Multiple Periodicities Detection](https://arxiv.org/pdf/2002.09535.pdf)
 
 1. [https://arxiv.org/pdf/1808.06414.pdf](https://arxiv.org/pdf/1808.06414.pdf)
 2. [https://arxiv.org/pdf/1812.02353.pdf](https://arxiv.org/pdf/1812.02353.pdf)
